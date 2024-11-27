@@ -16,4 +16,4 @@
 4. [NP Music Semi-Finals project](https://github.com/lucifron28/CP103-Semi-Finals-Project-NPMusic)
 
 ## Finals Projects
-1. [Source Code - Presentation](enumerationsort.cpp)
+1. [Source Code - Presentation of Enumeration Sort](enumerationsort.cpp)
