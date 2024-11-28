@@ -14,6 +14,7 @@
 2. [Towers of Hanoi using Stack (CLI with solution)](https://github.com/lucifron28/Towers-of-Hanoi-CLI-with-solution)
 3. [Ticket management system using Queues](https://github.com/lucifron28/Ticket-Management-System-Using-Queue-Data-Structure)
 4. [NP Music Semi-Finals project](https://github.com/lucifron28/CP103-Semi-Finals-Project-NPMusic)
+   - [NPMusic Documentation](https://github.com/lucifron28/CP103-Semi-Finals-Project-NPMusic/blob/main/Music-Player-Application-Documentation_Go.pdf)
 
 ## Finals Projects
 1. [Source Code - Presentation of Enumeration Sort](enumerationsort.cpp)
